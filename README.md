@@ -1,6 +1,4 @@
-<div style="background:url('https://placehold.co/15x15/pink/pink.png');padding:15px;text-align:center">
-  <p style="margin:0">This repository has moved to <a href="https://github.com/mjackson/remix-the-web/tree/main/form-data-parser">@mjackson/remix-the-web</a></p>
-</div>
+## IMPORTANT: This repository has moved to [@mjackson/remix-the-web](https://github.com/mjackson/remix-the-web/tree/main/form-data-parser)
 
 # form-data-parser
 
