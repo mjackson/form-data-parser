@@ -1,3 +1,7 @@
+<div style="background:pink;padding:15px;text-align:center">
+  <p style="margin:0">This repository has moved to <a href="https://github.com/mjackson/remix-the-web/tree/main/form-data-parser">@mjackson/remix-the-web</a></p>
+</div>
+
 # form-data-parser
 
 `form-data-parser` is a wrapper around `request.formData()` that provides pluggable support for file upload handling. This is useful in server contexts where large files should be streamed to disk or some cloud storage service like [AWS S3](https://aws.amazon.com/s3/) or [Cloudflare R2](https://www.cloudflare.com/developer-platform/r2/) instead of being buffered in memory.
